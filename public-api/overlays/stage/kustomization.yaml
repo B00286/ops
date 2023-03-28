@@ -38,5 +38,5 @@ patches:
 
 images:
 - name: KUSTOMIZE-DEFINED
-  newName: /kubelabs_publicapi2
+  newName: josemag2209/kubelabs_publicapi2
   newTag: 2.0.0
